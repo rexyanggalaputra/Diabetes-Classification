@@ -12,8 +12,8 @@ Diabetes is a chronic disease characterized by high blood sugar (glucose) levels
   - patient_number    : Patient id number
   - cholesterol       : Cholesterol levels of patient
   - glucose           : Sugar level of patient
-  - hdl_chol          : High-density-lipoprotein (HDL) cholesterol
-  - chol_hdl_ratio    : High-density-lipoprotein (HDL) cholesterol ratio
+  - hdl_chol          : High-Density-Lipoprotein (HDL) cholesterol
+  - chol_hdl_ratio    : High-Density-Lipoprotein (HDL) cholesterol ratio
   - age               : Age of patient
   - gender            : Gender of patient
   - height            : height of patient
