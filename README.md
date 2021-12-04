@@ -41,7 +41,7 @@ Table above says that all columns consist of full 390 data. It means there are n
 
 * Scaling
 
-Scaling is used to normalize the data because in the dataset column there are differences in the numerical scale units 
+Scaling is used to normalize the data because in the dataset column there are differences in the numerical scale units.
 
 ![scaling](https://user-images.githubusercontent.com/85033777/144687147-7a55196a-6dc5-4862-9010-d0aea4af4970.png)
 
