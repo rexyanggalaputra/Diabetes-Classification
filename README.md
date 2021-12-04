@@ -4,7 +4,7 @@ Diabetes is a chronic disease characterized by high blood sugar (glucose) levels
 ## Data Understanding
 * This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
 
-* The dataset consist of 361 rows and 17 columns taken from [Kaggle](kaggle.com) platform. Predictor variables includes the number of pregnancies the patient has had, their BMI, weight, age,glucose, and so on.
+* The dataset consist of 390 rows and 17 columns taken from [Kaggle](kaggle.com) platform. Predictor variables includes the number of pregnancies the patient has had, their BMI, weight, age, glucose, and so on.
 
 * [Source Data](https://www.kaggle.com/houcembenmansour/predict-diabetes-based-on-diagnostic-measures)
 
