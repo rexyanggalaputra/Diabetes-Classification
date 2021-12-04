@@ -21,7 +21,7 @@ Diabetes is a chronic disease characterized by high blood sugar (glucose) levels
   - bmi               : Body Mass Index of patient
   - systolic_bp       : Systolic blood pressure
   - diastolic_bp      : Diastolic blood pressure
-  - waist             : Waist of patirnt
+  - waist             : Waist of patient
   - hip               : Hip of patient
   - waist_hip_ratio   : Waist-to-hip ratio (WHR)
   - diabetes          : Is patient have diabetes or not
