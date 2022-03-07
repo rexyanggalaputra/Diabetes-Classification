@@ -1,5 +1,9 @@
 # Diabetes Classification
+## Business Understanding
 Diabetes is a chronic disease characterized by high blood sugar (glucose) levels. Glucose is the main energy source for the cells of the human body. Glucose that accumulates in the blood due to not being absorbed by the body's cells properly can cause various disorders of the body's organs. If diabetes is not controlled properly, various complications can arise that endanger the patient's life. Early detection of diabetes is important so that it can be handled properly and does not cause adverse effects on the human body.
+
+* Objective : Classification
+* Benefit   : Assist the medical team in providing early identification of individuals who may have diabetes.
 
 ## Data Understanding
 * This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
